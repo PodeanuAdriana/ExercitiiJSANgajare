@@ -4,4 +4,4 @@ let z=a+b;
 let c=a*b;
 let ceva = 1;
 let ceva1 =" sa intamplat ceva "
-print(ceva)
+console.log(ceva)
