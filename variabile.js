@@ -3,5 +3,5 @@ let b=5;
 let z=a+b;
 let c=a*b;
 let ceva = 1;
-let ceva =" sa intamplat ceva "
+let ceva1 =" sa intamplat ceva "
 print(ceva)
