@@ -42,4 +42,4 @@ Console.log(index); // outputs 2
 
  function functiunta(value, index, array) {
     txt += value + "<br>";
- }s
+ }
