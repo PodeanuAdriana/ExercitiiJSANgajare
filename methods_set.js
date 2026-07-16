@@ -52,3 +52,5 @@ let text = "";
 letters.forEach (function(value) {
   text += value;
 })
+
+// values to get the Interator object of the set, which contains all the values in the set. You can then use a for...of loop to iterate over the values.
